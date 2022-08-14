@@ -1,7 +1,13 @@
+* {
+    background-color: green;
+    font-family: "Times New Roman", sans-serif
+}
+
 .links {
     font-size: 18px;
 }
 
-.img {
-    text-align: center;
+.image {
+    height: 300px;
+    width: auto;
 }
